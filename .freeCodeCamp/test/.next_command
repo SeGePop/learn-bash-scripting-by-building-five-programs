@@ -103,3 +103,4 @@ ls --color=auto -l
 find bash
 which bash
 ./bingo.sh
+printenv
