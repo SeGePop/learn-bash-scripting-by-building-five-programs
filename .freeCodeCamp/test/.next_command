@@ -93,3 +93,7 @@ sleep 3
 help while
 ./countdown 5
 ./countdown.sh 5
+./countdown.sh 5
+./countdown.sh 5
+touch bingo.sh
+chmod -x bingo.sh
