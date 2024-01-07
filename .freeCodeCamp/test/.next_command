@@ -60,3 +60,4 @@ help test
 ./countdown 6
 ./countdown.sh 5
 [[ 4 -le 5 ]]
+echo $?
