@@ -104,3 +104,4 @@ find bash
 which bash
 ./bingo.sh
 printenv
+echo LANG
