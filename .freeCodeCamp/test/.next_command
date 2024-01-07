@@ -42,3 +42,4 @@ find bash
 which bash
 ./countdown.sh
 ./countdown.sh arg1 arg2 arg3
+./countdown.sh arg1 arg2 arg3
