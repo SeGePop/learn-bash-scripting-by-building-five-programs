@@ -81,3 +81,4 @@ help
 ./countdown 10
 ./countdown.sh 10
 help
+ls --color=auto /
