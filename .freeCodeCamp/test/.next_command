@@ -100,3 +100,5 @@ chmod -x bingo.sh
 ls --color=auto -l
 chmod +x bingo.sh
 ls --color=auto -l
+find bash
+which bash
