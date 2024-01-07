@@ -40,3 +40,4 @@ where bash
 where --help
 find bash
 which bash
+./countdown.sh
