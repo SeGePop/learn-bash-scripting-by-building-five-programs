@@ -36,3 +36,7 @@ chmod countdown.sh +x
 chmod --help
 chmod +x countdown.sh
 ls --color=auto -l
+where bash
+where --help
+find bash
+which bash
